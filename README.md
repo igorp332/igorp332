@@ -3,7 +3,7 @@
 
 
 - 🔭 Sou Desenvolverdor-Full Stack
-- Tenho conhecimento em linguagens de programação e tecnologias como HTML5, CSS3, Javascript,(ES6+), Typescript, React, Python, Node.Js, SQL, PostgreSQL. Além de ter feito projetos utilizando essas tecnologias.
+- Tenho conhecimento em linguagens de programação e tecnologias como HTML5, CSS3, Javascript, Typescript, React, Python, Node.Js, SQL, PostgreSQL. Além de ter feito projetos utilizando essas tecnologias.
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorp332&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=igorp332&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
