@@ -5,7 +5,7 @@
 - 🔭 Sou Desenvolverdor-Full Stack
 - Tenho conhecimento em linguagens de programação e tecnologias como HTML5, CSS3, Javascript, Typescript, React, Python, Node.Js, SQL, PostgreSQL. Além de ter feito projetos utilizando essas tecnologias.
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorp332&hide=javascript,html)](https://github.com/igorp332/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorp332)](https://github.com/igorp332/github-readme-stats)
 
 
