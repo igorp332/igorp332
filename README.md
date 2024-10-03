@@ -7,7 +7,7 @@
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=igorp332&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Igor Pontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=igorp332&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorp332&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ### Languages
