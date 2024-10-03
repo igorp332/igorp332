@@ -6,8 +6,8 @@
 - Tenho conhecimento em linguagens de programação e tecnologias como HTML5, CSS3, Javascript, Typescript, React, Python, Node.Js, SQL, PostgreSQL. Além de ter feito projetos utilizando essas tecnologias.
   
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/?username=igorp332&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Igor Pontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorp332&layout=compact&langs_count=7&theme=dark" />
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=igorp332&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Igor Pontes github stats" /> 
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorp332&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ### Languages
